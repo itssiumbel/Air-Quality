@@ -5,5 +5,5 @@ In this project I worked with data from one of Africa's largest open data platfo
 __My steps:__
 + getting data by querying a MongoDB database;
 + preparing time series data for analysis;
-+ build an ARMA model;
-+ improve a model by tuning its hyperparameters.
++ building an ARMA model;
++ improving a model by tuning its hyperparameters.
